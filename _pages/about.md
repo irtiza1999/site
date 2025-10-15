@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Bio
-I am an Adjunct Lecturer in the Computer Science and Engineering Department at BRAC University, Dhaka, Bangladesh, and an aspiring Ph.D. candidate. I hold a Bachelor’s degree in Computer Science and Engineering from BRAC University and am pursuing a Master’s degree at the same institution (expected completion Jun 2026). Passionate about Computer Vision, AI and AI security, I combine expertise in machine learning and full-stack development to drive innovative solutions.
+I am an Adjunct Lecturer in the Computer Science and Engineering Department at BRAC University, Dhaka, Bangladesh. I hold a Bachelor’s degree in Computer Science and Engineering from BRAC University and am pursuing a Master’s degree at the same institution (expected completion Jun 2026). Passionate about Computer Vision, AI and AI security, I combine expertise in machine learning and full-stack development to drive innovative solutions.
 
 **Work Email:** [ext.irtiza.hossain@bracu.ac.bd](mailto:ext.irtiza.hossain@bracu.ac.bd)\\
 **Personal Email:** [mohammad.irtiza.hossain@gmail.com](mailto:mohammad.irtiza.hossain@gmail.com)
