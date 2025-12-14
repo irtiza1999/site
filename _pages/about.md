@@ -31,10 +31,3 @@ Md. Irtiza Hossain, Samiul Kadir, Farhan Ishraq Fagun, Ishtiaq Samiul, Rafi Zama
 Sami Sadat, Md. Irtiza Hossain, Junaid Ahmed Sifat, Suhail Haque Rafi, Md. Waseq Alauddin Alvi, Md. Khalilur Rhaman
 [[DOI](https://doi.org/10.48550/arXiv.2508.11696)]
 
-## Other Research Works
-**Enhanced Hybrid Technique for Efficient Digitization of Handwritten Marksheets**  
-*Co-Supervised*  
-This project developed a hybrid approach combining image processing and machine learning to digitize handwritten marksheets efficiently. The method improves accuracy in extracting text and numerical data from scanned marksheets, addressing challenges like varied handwriting styles and noise.  
-[[DOI](https://doi.org/10.48550/arXiv.2508.16295)]  
-
-
