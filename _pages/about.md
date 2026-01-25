@@ -26,8 +26,3 @@ I am an Adjunct Lecturer in the Computer Science and Engineering Department at B
 Md. Irtiza Hossain, Samiul Kadir, Farhan Ishraq Fagun, Ishtiaq Samiul, Rafi Zaman Saukhin  
 [[DOI](https://doi.org/10.1109/ICICT64387.2024.10839645)]
 
-**Deep Learning-Based CCTV System for Automatic Smoking Detection in Fire Exit Zones**  
-*Preprint*  
-Sami Sadat, Md. Irtiza Hossain, Junaid Ahmed Sifat, Suhail Haque Rafi, Md. Waseq Alauddin Alvi, Md. Khalilur Rhaman
-[[DOI](https://doi.org/10.48550/arXiv.2508.11696)]
-
