@@ -31,7 +31,7 @@ Md. Irtiza Hossain, Samiul Kadir, Farhan Ishraq Fagun, Ishtiaq Samiul, Rafi Zama
 
 **[Edge-Native Digitization of Handwritten Marksheets: A Hybrid Heuristic-Deep Learning Framework](/site/publication/2026-03-27-edge-native-digitization-marksheets)**  
 *Qpain 2026 (Conference Paper, Accepted)*  
-Md. Irtiza Hossain, Junaid Ahmed Sifat, Abir Chowdhury  
+Md. Irtiza Hossain, Junaid Ahmed Sifat, Abir Chowdhury, Md. Imran Bin Azad
 <br>
 <span style="font-size: 0.95em;">This paper introduces a resource-efficient hybrid framework for digitizing structured handwritten documents, combining a heuristic OpenCV-based pipeline for table detection with a modified lightweight YOLOv8 for handwritten character recognition, achieving real-time performance and high accuracy on edge devices.</span>  
 [[Details](/site/publication/2026-03-27-edge-native-digitization-marksheets)] [[arXiv](https://arxiv.org/abs/2508.16295)]
