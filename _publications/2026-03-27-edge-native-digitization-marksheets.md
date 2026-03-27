@@ -1,9 +1,9 @@
 ---
 title: "Edge-Native Digitization of Handwritten Marksheets: A Hybrid Heuristic-Deep Learning Framework"
 collection: publications
-category: journal
+category: conference
 permalink: /publication/2026-03-27-edge-native-digitization-marksheets
-excerpt: 'This paper introduces a resource-efficient hybrid framework for digitizing structured handwritten documents, combining a heuristic OpenCV-based pipeline for table detection with a modified lightweight YOLOv8 for handwritten character recognition, achieving real-time performance and high accuracy on edge devices.'
+excerpt: 'This paper introduces a resource-efficient hybrid framework for digitizing structured handwritten documents, combining a heuristic OpenCV-based pipeline for table detection with a modified lightweight YOLOv8 for handwritten character recognition.'
 date: 2026-03-27
 venue: 'Qpain (Accepted 2026)'
 paperurl: 'https://arxiv.org/abs/2508.16295'
