@@ -1,0 +1,12 @@
+---
+title: "Edge-Native Digitization of Handwritten Marksheets: A Hybrid Heuristic-Deep Learning Framework"
+collection: publications
+category: journal
+permalink: /publication/2026-03-27-edge-native-digitization-marksheets
+excerpt: 'This paper introduces a resource-efficient hybrid framework for digitizing structured handwritten documents, combining a heuristic OpenCV-based pipeline for table detection with a modified lightweight YOLOv8 for handwritten character recognition, achieving real-time performance and high accuracy on edge devices.'
+date: 2026-03-27
+venue: 'Qpain (Accepted 2026)'
+paperurl: 'https://arxiv.org/abs/2508.16295'
+citation: 'Md. Irtiza Hossain, Junaid Ahmed Sifat, Abir Chowdhury. (2026). "Edge-Native Digitization of Handwritten Marksheets: A Hybrid Heuristic-Deep Learning Framework." <i>Qpain</i> (Accepted 2026).'
+---
+The digitization of structured handwritten documents, such as academic marksheets, remains a significant challenge due to the dual complexity of irregular table structures and diverse handwriting styles. While recent Transformer-based approaches like TableNet and TrOCR achieve state-of-the-art accuracy, their high computational cost renders them unsuitable for resource-constrained edge deployments. This paper introduces a resource-efficient hybrid framework that integrates a heuristic OpenCV-based pipeline for rapid table structure detection with a modified lightweight YOLOv8 architecture for handwritten character recognition. By strategically removing the SPPF and deep C2f layers from the standard YOLOv8 backbone, we reduce computational overhead while maintaining high recognition fidelity. Experimental results on the EMNIST digit benchmark demonstrate that our Modified YOLOv8 model achieves 97.5% accuracy. Furthermore, we provide a comprehensive efficiency analysis showing that our framework offers a 95 times inference speedup over standard OCR pipelines and massive efficiency gains over emerging Large Multimodal Models (LMMs) like Qwen2.5-VL, achieving real-time performance 29 FPS on standard CPU hardware. A qualitative and quantitative evaluation on the AMES dataset, a challenging subset of real-world marksheets, confirms the system's robustness in handling mixed alphanumeric content, bridging the gap between high-performance deep learning and practical, scalable document automation.
