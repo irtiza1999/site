@@ -22,12 +22,13 @@ I am an Adjunct Lecturer in the Computer Science and Engineering Department at B
 
 ## Publications
 
-**[Edge-Native Digitization of Handwritten Marksheets: A Hybrid Heuristic-Deep Learning Framework](/site/publication/2026-03-27-edge-native-digitization-marksheets)**  
-*Qpain 2026 (Conference Paper, Accepted)*  
+**[Edge-Native Digitization of Handwritten Marksheets: A Hybrid Heuristic-Deep Learning Framework](/site/publication/2026-04-16-edge-native-digitization-marksheets)**  
+*QPAIN 2026 (Conference Paper)*  
 Md. Irtiza Hossain, Junaid Ahmed Sifat, Abir Chowdhury, Md. Imran Bin Azad
 <br>
 <span style="font-size: 0.95em;">This paper introduces a resource efficient hybrid framework for digitizing structured handwritten documents, combining a heuristic OpenCV-based pipeline for table detection with a modified lightweight YOLOv8 for handwritten character recognition, achieving real-time performance and high accuracy on edge devices.</span>  
-[[Details](/site/publication/2026-03-27-edge-native-digitization-marksheets)] [[arXiv](https://arxiv.org/abs/2508.16295)]
+[[Details](/site/publication/2026-04-16-edge-native-digitization-marksheets)] [[DOI](https://doi.org/10.1109/QPAIN69676.2026.11546582)]
+
 
 **[Enhanced CNN Approaches for Multi-Image Embedding in Image Steganography](/site/publication/2024-08-01-enhanced-cnn-steganography)**  
 *ICICT 2024 (Conference Paper)*  
