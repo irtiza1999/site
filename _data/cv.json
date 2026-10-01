@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Md. Irtiza Hossain",
+    "email": "mohammad.irtiza.hossain@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://irtiza1999.github.io/site",
+    "summary": "Lecturer, Department of Computer Science and Engineering, Brac University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Dhaka, Bangladesh",
       "countryCode": "US",
       "region": ""
     },
@@ -16,17 +16,27 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=3QexsYIAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0007-2745-0000"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "",
+        "url": "https://www.researchgate.net/profile/Md_Hossain435?ev=hdr_xprf"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "irtiza1999",
+        "url": "https://github.com/irtiza1999"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "md-irtiza-hossain",
+        "url": "https://www.linkedin.com/in/md-irtiza-hossain"
       }
     ]
   },
@@ -66,32 +76,18 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Enhanced CNN Approaches for Multi-Image Embedding in Image Steganography",
+      "publisher": "2024 International Conference on Information and Communication Technologies (ICICT)",
+      "releaseDate": "2024-08-01",
+      "website": "https://doi.org/10.1109/ICICT64387.2024.10839645",
+      "summary": "This paper proposes novel convolutional neural network (CNN) approaches for embedding multiple images within a single cover image for steganography."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Edge-Native Digitization of Handwritten Marksheets: A Hybrid Heuristic-Deep Learning Framework",
+      "publisher": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
+      "releaseDate": "2026-04-16",
+      "website": "https://doi.org/10.1109/QPAIN69676.2026.11546582",
+      "summary": "This paper introduces a resource-efficient hybrid framework for digitizing structured handwritten documents, combining a heuristic OpenCV-based pipeline for table detection with a modified lightweight YOLOv8 for handwritten character recognition."
     }
   ],
   "presentations": [
@@ -126,18 +122,60 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
+      "course": "CSE220: Data Structure",
+      "institution": "BRAC University, Department of Computer Science and Engineering",
+      "date": "2026-06-02",
       "role": "Undergraduate course",
-      "description": ""
+      "description": "Taught across Fall 2024, Spring 2025, and Summer 2026. Covers elementary data structures including arrays, circular arrays, linked lists, stacks, queues, trees, and heaps, along with recursion, searching, sorting, and tree traversal algorithms."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "CSE360: Computer Interfacing",
+      "institution": "BRAC University, Department of Computer Science and Engineering",
+      "date": "2026-06-01",
+      "role": "Undergraduate course",
+      "description": "Taught across Fall 2024, Spring 2025, Summer 2025, Fall 2025, and Summer 2026. Covers microprocessor and microcontroller interfacing, programmable peripheral interfaces (PPI 82C55), sensors, actuators, serial protocols (UART, I2C, SPI), and display modules."
+    },
+    {
+      "course": "CSE370: Database Systems",
+      "institution": "BRAC University, Department of Computer Science and Engineering",
+      "date": "2024-10-01",
+      "role": "Undergraduate course",
+      "description": "Taught during Fall 2024. Covers relational database management systems (RDBMS), conceptual data modeling (ER/EER), relational schema mapping, normalization theory, indexing, transaction processing, and Structured Query Language (SQL)."
+    },
+    {
+      "course": "CSE461: Introduction to Robotics",
+      "institution": "BRAC University, Department of Computer Science and Engineering",
+      "date": "2024-09-01",
+      "role": "Undergraduate course",
+      "description": "Taught during Fall 2024. Covers the foundational principles of robotics including manipulator kinematics (forward/inverse), spatial transformations, motor control, sensor integration, computer vision, feedback control, and autonomous navigation."
+    },
+    {
+      "course": "CSE471: System Analysis and Design",
+      "institution": "BRAC University, Department of Computer Science and Engineering",
+      "date": "2025-10-02",
+      "role": "Undergraduate course",
+      "description": "Taught across Fall 2024, Spring 2025, Summer 2025, and Fall 2025. Covers the software development life cycle (SDLC), requirement engineering, structured analysis (DFDs, ERDs), object-oriented UML modeling, and full-stack software project execution."
+    },
+    {
+      "course": "CSE101: Introduction to Computer Science",
+      "institution": "BRAC University, Department of Computer Science and Engineering",
+      "date": "2025-10-01",
+      "role": "Undergraduate course",
+      "description": "Taught during Summer 2025 and Fall 2025. Introduces the fundamentals of computer science, computer networks, digital security, spreadsheet modeling and data analysis using Microsoft Excel, and basic programming in Python."
+    },
+    {
+      "course": "CSE422: Artificial Intelligence",
+      "institution": "BRAC University, Department of Computer Science and Engineering",
+      "date": "2025-06-01",
+      "role": "Undergraduate course",
+      "description": "Taught during Summer 2025. Covers theoretical foundations and practical applications of Artificial Intelligence, including intelligent agents, heuristic search (A*), adversarial game playing, constraint satisfaction, probabilistic reasoning, and machine learning."
+    },
+    {
+      "course": "CSE221: Algorithm Analysis & Design",
+      "institution": "BRAC University, Department of Computer Science and Engineering",
+      "date": "2026-06-03",
+      "role": "Undergraduate course",
+      "description": "Taught during Summer 2026. Addresses efficient algorithm design and asymptotic analysis, covering Divide and Conquer, Greedy methods, Dynamic Programming, Graph algorithms (BFS, DFS, shortest paths, MST), and NP-completeness."
     }
   ],
   "portfolio": [
