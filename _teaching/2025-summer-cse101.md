@@ -9,7 +9,7 @@ redirect_from:
 venue: "BRAC University, Department of Computer Science and Engineering"
 date: 2025-10-01
 location: "Dhaka, Bangladesh"
-citation: "BRAC University, Department of Computer Science and Engineering — Semesters: Summer 2025, Fall 2025"
+semesters: "Summer 2025, Fall 2025"
 excerpt: "Taught during Summer 2025 and Fall 2025. Introduces the fundamentals of computer science, computer networks, digital security, spreadsheet modeling and data analysis using Microsoft Excel, and basic programming in Python."
 ---
 

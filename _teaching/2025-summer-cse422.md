@@ -11,7 +11,8 @@ redirect_from:
 venue: "BRAC University, Department of Computer Science and Engineering"
 date: 2025-06-01
 location: "Dhaka, Bangladesh"
-citation: "BRAC University, Department of Computer Science and Engineering — Semester: Summer 2025"
+semester: "Summer 2025"
+semesters: "Summer 2025"
 excerpt: "Taught during Summer 2025. Covers theoretical foundations and practical applications of Artificial Intelligence, including intelligent agents, heuristic search (A*), adversarial game playing, constraint satisfaction, probabilistic reasoning, and machine learning."
 ---
 

@@ -9,7 +9,8 @@ redirect_from:
 venue: "BRAC University, Department of Computer Science and Engineering"
 date: 2026-06-03
 location: "Dhaka, Bangladesh"
-citation: "BRAC University, Department of Computer Science and Engineering — Semester: Summer 2026"
+semester: "Summer 2026"
+semesters: "Summer 2026"
 excerpt: "Taught during Summer 2026. Addresses efficient algorithm design and asymptotic analysis, covering Divide and Conquer, Greedy methods, Dynamic Programming, Graph algorithms (BFS, DFS, shortest paths, MST), and NP-completeness."
 ---
 
