@@ -15,12 +15,20 @@ I am a Lecturer in the Computer Science and Engineering Department at BRAC Unive
 **Personal Email:** [mohammad.irtiza.hossain@gmail.com](mailto:mohammad.irtiza.hossain@gmail.com)
 
 ## Research Interests
-- Machine Learning
-- Computer Vision
-- Image Processing
-- AI Security & Privacy
+- Computer Vision and Machine Learning: Uncertainty and calibration, robustness to distribution shift and tampered data, and efficient models
+- 3D Object Detection (LiDAR, BEV representation)
+- Video Behavior Recognition & Lightweight Document Automation
+- AI Security, Steganography & Privacy
 
 ## Publications
+
+**[Predictive Self-Conditioning for Accurate and Calibrated LiDAR 3D Object Detection](/site/publication/2027-01-15-predictive-self-conditioning-lidar-3d-object-detection)**  
+*IEEE/CVF WACV 2027 (Conference Paper - Accepted)*  
+Sami Sadat, Md. Irtiza Hossain, Shreya Adrita Banik, Md Zia Uddin, Md. Golam Rabiul Alam  
+<br>
+<span style="font-size: 0.95em;">Prediction-conditioned BEV feedback for LiDAR detectors: +2.48 Moderate mAP on KITTI (+3.95 pedestrian, +3.44 cyclist), +1.15 L2 APH on Waymo; a LiDAR-only Region-Aware CVAE lowers ECE by 12.7%.</span>  
+[[Details](/site/publication/2027-01-15-predictive-self-conditioning-lidar-3d-object-detection)]
+
 
 **[Edge-Native Digitization of Handwritten Marksheets: A Hybrid Heuristic-Deep Learning Framework](/site/publication/2026-04-16-edge-native-digitization-marksheets)**  
 *QPAIN 2026 (Conference Paper)*  
@@ -36,4 +44,5 @@ Md. Irtiza Hossain, Samiul Kadir, Farhan Ishraq Fagun, Ishtiaq Samiul, Rafi Zama
 <br>
 <span style="font-size: 0.95em;">This paper proposes novel convolutional neural network (CNN) approaches for embedding multiple images within a single cover image for steganography, enhancing data hiding capacity and security.</span>  
 [[Details](/site/publication/2024-08-01-enhanced-cnn-steganography)] [[DOI](https://doi.org/10.1109/ICICT64387.2024.10839645)]
+
 
