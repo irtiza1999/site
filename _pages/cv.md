@@ -14,7 +14,6 @@ redirect_from:
 Education
 ======
 * **M.S. in Computer Science and Engineering (Specialization in Data Science)**, BRAC University, Dhaka, Bangladesh (Jun 2025 – Present)
-  * CGPA: 3.81 / 4.00 (ongoing)
 * **B.Sc. in Computer Science and Engineering**, BRAC University, Dhaka, Bangladesh (Dec 2019 – May 2024)
   * CGPA: 3.90 / 4.00
   * Honors: Vice Chancellor’s List (5 semesters), Dean’s List (2 semesters)
@@ -37,6 +36,10 @@ Skills
 * **Programming**: Python, C, C#, JavaScript, PHP
 * **Tools**: Git, Docker, Linux/Bash, LaTeX, Jupyter
 * **Web and Backend**: React, Node.js, MongoDB, MySQL, .NET
+
+Test Scores
+======
+* **TOEFL iBT** (Sep 2026): 100/120 and 5/6
 
 Publications
 ======
